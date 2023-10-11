@@ -1,0 +1,18 @@
+body {
+  background-color: #104f55;
+  font-family: "Roboto Mono", monospace;
+  font-weight: 700;
+  color: #f4d35e;
+}
+
+header {
+  font-size: large;
+  text-align: center;
+  border: 2px solid black;
+}
+
+main {
+  margin: 25px;
+  padding: 12px;
+  height: 12px;
+}
