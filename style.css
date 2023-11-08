@@ -1,3 +1,4 @@
+/* body settings */
 body {
   background-color: #104f55;
   font-family: "Roboto Mono", monospace;
@@ -15,4 +16,29 @@ main {
   margin: 25px;
   padding: 12px;
   height: 12px;
+}
+
+/* Unvisited link */
+a:link {
+  color: #555;
+}
+
+/* Visited link */
+a:visited {
+  color: #555;
+}
+
+/* Mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* Selected link */
+a:active {
+  color: blue;
+}
+
+.links i {
+  font-size: 2em;
+  transform: scale(2);
 }
